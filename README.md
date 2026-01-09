@@ -1,1 +1,1 @@
-# lumeasecurity-cli
+# Lumea Sentinel CLI
